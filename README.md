@@ -1,1 +1,3 @@
-TinDog Starting Files
+#TinDog
+
+Tinder for dogs :D
